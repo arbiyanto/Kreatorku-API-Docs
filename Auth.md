@@ -1,4 +1,4 @@
-# Kreatorku Cart API
+# Kreatorku Auth API
 - [Login](#login)
 - [Register](#register)
 
